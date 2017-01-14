@@ -1,0 +1,15 @@
+{
+  "name": "custom_hbp5",
+  "version": "1.0.0",
+  "description": "My customized version of HBP5 with node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Goetschel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "h5bp": "^0.1.4"
+  }
+}
